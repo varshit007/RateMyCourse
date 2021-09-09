@@ -2,8 +2,8 @@
 A full stack web application for posting ratings/reviews for courses and professors at UIUC.
 
 ## Technologies Used:
-- MySQL Server hosted on Google Cloud Platform for the database
-- React for the front-end
+- MySQL Server hosted on Google Cloud Platform for the database.
+- React for the front-end.
 - Express / Node for connecting to MySQL
 - Deployed via Google App Engine
 
