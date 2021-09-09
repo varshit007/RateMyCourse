@@ -4,8 +4,8 @@ A full stack web application for posting ratings/reviews for courses and profess
 ## Technologies Used:
 - MySQL Server hosted on Google Cloud Platform for the database.
 - React for the front-end.
-- Express / Node for connecting to MySQL
-- Deployed via Google App Engine
+- Express / Node for connecting to MySQL.
+- Deployed via Google App Engine.
 
 ## Features:
 - Log in or sign up with a Google account
